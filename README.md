@@ -11,4 +11,4 @@
 
 - 上方订阅地址二维码
 
-  ![](https://github.com/HenroA/v2rayfree/blob/main/sub.png)
+  ![](https://github.com/HenroA/v2rayfree/blob/main/v2ray.jpg?raw=true)
