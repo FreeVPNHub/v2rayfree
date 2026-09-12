@@ -21,7 +21,7 @@ Clash Meta · V2Ray · Shadowrocket · NekoBox · Clash Verge
 
 ### 永久订阅地址 
 
-- [https://vpn-2d6.pages.dev/sub?token=c4c289e144a4ce6c346a12531a41c931]
+- https://vpn-2d6.pages.dev/sub?token=c4c289e144a4ce6c346a12531a41c931
 
 - 上方订阅地址二维码
 
