@@ -25,4 +25,4 @@ Clash Meta · V2Ray · Shadowrocket · NekoBox · Clash Verge
 
 - 上方订阅地址二维码
 
-  ![](https://github.com/HenroA/v2rayfree/blob/main/v2ray.jpg?raw=true)
+  ![](https://github.com/HenroA/v2rayfree/blob/main/v2ray.png?raw=true)
