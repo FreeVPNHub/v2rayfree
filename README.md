@@ -1,12 +1,16 @@
+<div align="center">
+
 # 🌐 丝路学府 · 开源订阅
 
-> 📚 免费节点订阅 · 每日更新
+**📚 免费节点订阅 · 每日更新**
 
 ---
 
 ## 🚀 客户端支持
 
-Clash Meta · V2Ray · Shadowrocket · NekoBox · Clash Verge · sing-box
+**Clash Meta · V2Ray · Shadowrocket**
+
+**NekoBox · Clash Verge · sing-box**
 
 ---
 
@@ -24,11 +28,7 @@ https://vpn-2d6.pages.dev/sub?token=c4c289e144a4ce6c346a12531a41c931
 
 ### 🔳 订阅二维码
 
-<div align="center">
-
 <img src="https://github.com/FreeVPNHub/v2rayfree/blob/main/v2ray.png?raw=true" width="220" alt="订阅二维码">
-
-</div>
 
 ---
 
@@ -77,3 +77,12 @@ https://vpn-2d6.pages.dev/sub?token=c4c289e144a4ce6c346a12531a41c931
 [![下载 v2rayN](https://img.shields.io/badge/⬇%20下载-v2rayN-2563EB?style=for-the-badge)](https://github.com/2dust/v2rayN/releases)
 
 ---
+
+## 🛡 使用须知
+
+- 请通过官方渠道下载客户端。
+- 使用前确认订阅来源可靠。
+- 注意保护个人账号及网络隐私。
+- 请遵守当地法律法规。
+
+</div>
