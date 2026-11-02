@@ -25,6 +25,6 @@ NekoBox · Clash Verge
 
 - https://vpn-2d6.pages.dev/sub?token=c4c289e144a4ce6c346a12531a41c931
 
-- 上方订阅地址二维码
+- 下方⬇️订阅地址二维码
 
   ![](https://github.com/FreeVPNHub/v2rayfree/blob/main/v2ray.png)
