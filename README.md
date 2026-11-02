@@ -8,10 +8,6 @@
 🔓 开源共享 · 免费使用
 📡 多协议支持 · 兼容多种客户端
 
-🛡 安全使用提醒
-
-请合理使用开源资源，注意个人账号与隐私安全。
-
 🚀 支持客户端
 
 Clash Meta · V2Ray · Shadowrocket
@@ -29,90 +25,77 @@ NekoBox · Clash Verge
 
   ![](https://github.com/FreeVPNHub/v2rayfree/blob/main/v2ray.png)
 
-🌐 丝路学府 · 开源订阅
 
-📚 免费开源节点及订阅资源
+<hr>
 
-🌥 每日同步更新开源资源！
+<h1>📥 客户端下载中心</h1>
+<p>CLIENT DOWNLOAD CENTER</p>
+<p>选择你的设备，下载对应客户端。</p>
 
-🆕 持续收集 · 整理 · 更新
-🔓 开源共享 · 免费使用
-📡 多协议支持 · 兼容多种客户端
+<h2>📱 手机客户端</h2>
 
-🛡 安全使用提醒
+<h3>Android 安卓</h3>
 
-请合理使用开源资源，注意个人账号与隐私安全。
+<div align="center">
+  <h3>Clash Meta</h3>
+  <p>🚀 Mihomo 核心 · Android</p>
+  <a href="https://github.com/MetaCubeX/ClashMetaForAndroid/releases">
+    <img src="https://img.shields.io/badge/⬇%20下载-Clash%20Meta-blue?style=for-the-badge">
+  </a>
+</div>
 
----
+<div align="center">
+  <h3>V2RayNG</h3>
+  <p>📡 V2Ray · VLESS</p>
+  <a href="https://github.com/2dust/v2rayNG/releases">
+    <img src="https://img.shields.io/badge/⬇%20下载-V2RayNG-green?style=for-the-badge">
+  </a>
+</div>
 
-📲 永久订阅地址
+<div align="center">
+  <h3>NekoBox</h3>
+  <p>🔐 多协议支持 · Android</p>
+  <a href="https://github.com/MatsuriDayo/NekoBoxForAndroid/releases">
+    <img src="https://img.shields.io/badge/⬇%20下载-NekoBox-purple?style=for-the-badge">
+  </a>
+</div>
 
-复制以下地址即可添加订阅：
+<h3>🍎 iOS 苹果</h3>
 
-https://vpn-2d6.pages.dev/sub?token=c4c289e144a4ce6c346a12531a41c931
+<div align="center">
+  <h3>Shadowrocket · 小火箭</h3>
+  <a href="https://apps.apple.com/app/id932747118">
+    <img src="https://img.shields.io/badge/⬇%20App%20Store-Shadowrocket-black?style=for-the-badge">
+  </a>
+</div>
 
-🔳 订阅二维码
+<div align="center">
+  <h3>sing-box</h3>
+  <a href="https://sing-box.sagernet.org/clients/apple/">
+    <img src="https://img.shields.io/badge/⬇%20下载-sing--box-blue?style=for-the-badge">
+  </a>
+</div>
 
-"永久订阅二维码" (https://raw.githubusercontent.com/FreeVPNHub/v2rayfree/main/v2ray.png)
+<hr>
 
----
+<h2>💻 电脑客户端</h2>
 
-🚀 订阅导入教程
+<div align="center">
+  <h3>Clash Verge Rev</h3>
+  <p>🖥 Windows · macOS · Linux</p>
+  <a href="https://github.com/clash-verge-rev/clash-verge-rev/releases">
+    <img src="https://img.shields.io/badge/⬇%20下载-Clash%20Verge%20Rev-blue?style=for-the-badge">
+  </a>
+</div>
 
-1. 复制上方订阅地址。
-2. 打开对应客户端。
-3. 选择添加订阅或导入订阅。
-4. 粘贴订阅地址并保存。
-5. 点击更新订阅。
+<div align="center">
+  <h3>v2rayN</h3>
+  <p>🖥 Windows · V2Ray / Xray</p>
+  <a href="https://github.com/2dust/v2rayN/releases">
+    <img src="https://img.shields.io/badge/⬇%20下载-v2rayN-green?style=for-the-badge">
+  </a>
+</div>
 
----
+<hr>
 
-📥 客户端下载中心
-
-📱 一、手机客户端
-
-Android 安卓
-
-"v2rayNG" (https://raw.githubusercontent.com/free-nodes/fanqiang/main/assets/v2rayNG.png)
-
-v2rayNG
-
-官方下载：https://github.com/2dust/v2rayNG/releases
-
-NekoBox
-
-官方下载：https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
-
-iPhone / iPad 苹果
-
-Shadowrocket（小火箭）
-
-App Store：https://apps.apple.com/app/id932747118
-
-sing-box
-
-官方下载：https://sing-box.sagernet.org/clients/apple/
-
----
-
-💻 二、电脑客户端
-
-Windows / macOS / Linux
-
-"Clash Verge" (https://raw.githubusercontent.com/clash-verge-rev/icon-hub/main/origin-colorful/icon.png)
-
-Clash Verge Rev
-
-官方下载：https://github.com/clash-verge-rev/clash-verge-rev/releases
-
-"v2rayN" (https://raw.githubusercontent.com/free-nodes/fanqiang/main/assets/v2rayN.png)
-
-v2rayN
-
-官方下载：https://github.com/2dust/v2rayN/releases
-
----
-
-🌍 丝路学府 · 开源共享 · 持续更新
-
-🛡 请从官方渠道下载客户端，注意核实订阅来源及安全性。
+<p align="center">🌐 丝路学府 · 开源共享</p>
