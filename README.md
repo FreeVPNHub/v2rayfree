@@ -27,4 +27,4 @@ NekoBox · Clash Verge
 
 - 上方订阅地址二维码
 
-  ![](https://github.com/FreeVPNHub/clashfree/blob/main/clash.png?raw=true)
+  ![](https://github.com/FreeVPNHub/v2rayfree/blob/main/v2ray.png)
