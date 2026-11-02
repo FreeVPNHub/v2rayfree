@@ -77,12 +77,4 @@ https://vpn-2d6.pages.dev/sub?token=c4c289e144a4ce6c346a12531a41c931
 [![下载 v2rayN](https://img.shields.io/badge/⬇%20下载-v2rayN-2563EB?style=for-the-badge)](https://github.com/2dust/v2rayN/releases)
 
 ---
-
-## 🛡 使用须知
-
-- 请通过官方渠道下载客户端。
-- 使用前确认订阅来源可靠。
-- 注意保护个人账号及网络隐私。
-- 请遵守当地法律法规。
-
 </div>
